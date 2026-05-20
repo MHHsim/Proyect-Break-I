@@ -57,8 +57,8 @@ El núcleo del proyecto gira en torno a la resolución de tres hipótesis de neg
 
 ### Hipótesis 2: "El precio de los alojamientos con pocas reseñas es más alto que el de los que tienen muchas."
 * **Responsable:** María
-* **Resultado:** **Parcialmente Validada**.
-* **Insight clave:** Se confirma en apartamentos y habitaciones privadas por falta de optimización inicial de precios en hosts particulares; sin embargo, la tendencia se invierte en habitaciones compartidas, donde la reputación y confianza (muchas reseñas) actúan como un activo de valor que permite incrementar la tarifa.
+* **Resultado:** **Desmentida**.
+* **Insight clave:** El análisis estadístico demuestra que la veteranía por sí sola (volumen de reseñas) no disminuye el precio de alquiler en Málaga. Las tarifas medianas se mantienen completamente planas y homogéneas tanto para anuncios nuevos ("novatos") como consolidados ("veteranos"). Esto se debe a la fuerte presencia de gestores profesionales (multi-hosts) que aplican estrategias de precios óptimas desde el primer día.
 
 ### Hipótesis 3: "La demanda se dispara más de un 50% en el Q3 (verano), siendo el Centro el más estable"
 * **Responsable:** María
