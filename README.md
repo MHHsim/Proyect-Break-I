@@ -62,7 +62,7 @@ El núcleo del proyecto gira en torno a la resolución de tres hipótesis de neg
 
 ### Hipótesis 3: "La demanda se dispara más de un 50% en el Q3 (verano), siendo el Centro el más estable"
 * **Responsable:** María
-* **Resultado:** **PArcialmente Validada**.
+* **Resultado:** **Parcialmente Validada**.
 * **Insight clave:** A nivel global, Málaga muestra una desestacionalización total, registrando un crecimiento negativo (-0.66%) en verano (Q3) respecto a primavera (Q2). El Distrito Centro se confirma como la zona más estable y homogénea del año debido a su fuerte oferta cultural.
 * **Excepción:** El barrio de Teatinos-Universidad rompe por completo la tendencia plana de la ciudad, sufriendo una estacionalidad extrema con un pico de crecimiento veraniego superior al 124% al liberarse el alojamiento estudiantil.
 
