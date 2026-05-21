@@ -53,7 +53,7 @@ El núcleo del proyecto gira en torno a la resolución de tres hipótesis de neg
 ### Hipótesis 1: "El Centro es la zona más cara de Málaga debido a su alta demanda"
 * **Responsable:** Marta
 * **Resultado:** **Desmentida**.
-* **Insight clave:** Sorprendentemente, el Distrito Centro ocupa el 8º lugar en precio medio. Zonas como Campanillas, Churriana o el Este presentan precios medios o medianos más elevados debido a una oferta de viviendas más grandes (villas/casas rurales) y menor saturación de mercado frente a la alta competitividad y densidad de apartamentos pequeños en el Centro.
+* **Insight clave:** Sorprendentemente, el Distrito Centro ocupa el 4.º lugar en la mediana del precio, mientras que barrios como Campanillas, Churriana o Palma‑Palmilla presentan valores medianos más elevados. Esto se debe a que en el Centro existe una mayor demanda de alojamientos y un claro predominio de hosts profesionales, frente a la menor demanda y mayor presencia de hosts particulares en otros barrios. Además, en zonas con muy poca oferta, los outliers —alojamientos de precio excepcionalmente alto— distorsionan la mediana de forma notable, un efecto que no se produce en el Centro debido a su volumen y homogeneidad.
 
 ### Hipótesis 2: "El precio de los alojamientos con pocas reseñas es más alto que el de los que tienen muchas."
 * **Responsable:** María
