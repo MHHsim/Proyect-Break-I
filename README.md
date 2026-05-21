@@ -57,13 +57,13 @@ El núcleo del proyecto gira en torno a la resolución de tres hipótesis de neg
 
 ### Hipótesis 2: "El precio de los alojamientos con pocas reseñas es más alto que el de los que tienen muchas."
 * **Responsable:** María
-* **Resultado:** **Desmentida**.
-* **Insight clave:** El análisis estadístico demuestra que la veteranía por sí sola (volumen de reseñas) no disminuye el precio de alquiler en Málaga. Las tarifas medianas se mantienen completamente planas y homogéneas tanto para anuncios nuevos ("novatos") como consolidados ("veteranos"). Esto se debe a la fuerte presencia de gestores profesionales (multi-hosts) que aplican estrategias de precios óptimas desde el primer día.
+* **Resultado:** **Confirmada de manera general, pero con matices**.
+* **Insight clave:** El número de reseñas no puede analizarse de forma aislada, aunque de manera general confirme la hipótesis; un análisis más profundo revela que este fenómeno no es uniforme ya que varía según determinados factores aislados, según el tipo de anfitrión o el tipo de habitación puede darse la vuelta el resultado al completo.
 
 ### Hipótesis 3: "La demanda se dispara más de un 50% en el Q3 (verano), siendo el Centro el más estable"
 * **Responsable:** María
 * **Resultado:** **Parcialmente Validada**.
-* **Insight clave:** A nivel global, Málaga muestra una desestacionalización total, registrando un crecimiento negativo (-0.66%) en verano (Q3) respecto a primavera (Q2). El Distrito Centro se confirma como la zona más estable y homogénea del año debido a su fuerte oferta cultural.
+* **Insight clave:** A nivel global, Málaga muestra una desestacionalización total, registrando un crecimiento negativo (-0.66%) en verano (Q3) respecto a primavera (Q2). El Distrito Centro se confirma como una de las zonas más estables y homogéneas del año debido a su fuerte oferta cultural.
 * **Excepción:** El barrio de Teatinos-Universidad rompe por completo la tendencia plana de la ciudad, sufriendo una estacionalidad extrema con un pico de crecimiento veraniego superior al 124% al liberarse el alojamiento estudiantil.
 
 ---
